@@ -1,0 +1,7 @@
+linter:
+  rules:
+    - always_declare_return_types
+    - always_put_control_body_on_new_line
+    - prefer_single_quotes
+    - avoid_void_async
+    - constant_identifier_names
